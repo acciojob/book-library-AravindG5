@@ -15,7 +15,12 @@ margin:20px;
 	text-align:center;
 }
 .price{
-	background-color:#2ecc71;
-	color:white;
+	background-color:rgb(46, 204, 113);
+	color:rgb(255, 255, 255);
 	text-align:center;
+	border-radius:3px;
+	border:none;
+}
+.auther{
+	color:rgb(119, 119, 119);
 }
